@@ -1,0 +1,11 @@
+Buy a [tshirt](clothing)
+Purchase an [iPhone](communication)
+Visit [New York](transportation)
+Eat [Chicken burger](food) at McDonald's
+Drink [orange juice](food)
+Get [face-wash](health) and [body-wash](health)
+Purchase [groceries](food)
+Buy a [cake](food)
+Drink [milk](food)
+Do [laundry](hygiene)
+Make [coffee](food)
